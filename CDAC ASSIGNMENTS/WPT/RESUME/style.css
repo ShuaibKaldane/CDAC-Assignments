@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#heading {
+    height: 70px;
+    text-align: center;
+    background-color: blue;
+}
+
+#summary {
+    display: flex;
+    
+    justify-content: space-evenly;
+    justify-content: center;
+    height: auto;
+}
+
+#left {
+    flex: 1;
+    padding: 20px;
+    width: 1000px;
+}
+
+#right {
+    flex: 1;
+    width: 800px;
+    padding: 20px;
+}
+
+#info {
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#info1 {
+    padding: 20px;
+}
+
+#info2 {
+    padding: 20px;
+}
+
+#work span {
+    font-weight: 100;
+}
+
+#work li {
+    padding: 8px;
+}
+
+#education{
+    display: flex;
+    justify-content: space-between;
+}
+
+#item1 li{
+    padding: 12px;
+
+}
+#item2 li{
+    padding: 3px;
+}
+
+#igm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("./logo5.jpg");
+    height: 200px;
+    width: 240px;
+    margin-left: 240px;
+    background-size: cover;
+    
+    
+}
+#right{
+    align-items: center;
+    
+}
+#contact{
+    margin-left: 320px;
+    font-weight: 900;
+}
+
+#no12{
+    margin-left: 300px;
+    font-weight: 900;
+    color: blue;
+}
+#urm{
+   height: 100px;
+   
+   margin: 12px;
+   line-height: 1.5;
+}
+#no112{
+    margin-left: 330px;
+    font-weight: 900;
+
+}
+
+#no121{
+    margin-left: 280px;
+    font-weight: 900;
+    color: blue;
+}
+
+#ad1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
+#last{
+    margin-left: 360px;
+    line-height: 1.5;
+}
+#sm5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    text-decoration: dotted;
+}
+
+#ic2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    text-align: center;
+}
